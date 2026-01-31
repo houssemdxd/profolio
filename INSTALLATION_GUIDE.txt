@@ -1,0 +1,100 @@
+========================================
+🏜️ DESERT PORTFOLIO - INSTALLATION GUIDE
+========================================
+
+📦 What's Included:
+- Complete React + Three.js portfolio
+- All source code and configuration
+- Ready-to-use project structure
+
+⚙️ Requirements:
+- Node.js (version 18 or higher)
+- npm (comes with Node.js)
+
+🚀 INSTALLATION STEPS:
+
+1. EXTRACT THE ZIP FILE
+   - Unzip "desert-portfolio.zip" to your desired location
+   - You should see a folder called "desert-portfolio"
+
+2. OPEN TERMINAL/COMMAND PROMPT
+   - Windows: Open Command Prompt or PowerShell
+   - Mac: Open Terminal
+   - Linux: Open Terminal
+
+3. NAVIGATE TO PROJECT FOLDER
+   cd path/to/desert-portfolio
+   
+   Example:
+   - Windows: cd C:\Users\YourName\Desktop\desert-portfolio
+   - Mac/Linux: cd ~/Desktop/desert-portfolio
+
+4. INSTALL DEPENDENCIES
+   npm install
+   
+   ⏱️ This will take 1-2 minutes
+   ⚠️ Make sure you have internet connection
+
+5. START THE PROJECT
+   npm run dev
+   
+   ✅ The portfolio will automatically open in your browser!
+   🌐 If not, open: http://localhost:3000
+
+========================================
+🎮 HOW TO USE THE PORTFOLIO
+========================================
+
+Controls:
+- W or ↑ Arrow: Drive forward
+- S or ↓ Arrow: Reverse
+- A or ← Arrow: Turn left
+- D or → Arrow: Turn right
+- 🔄 Reset button: Return to start
+
+Features:
+- 4 Internships with human figures
+- 3 Projects with unique 3D shapes
+- GitHub links for projects
+- Celebration at the end
+- Full contact information
+
+========================================
+📦 BUILD FOR DEPLOYMENT
+========================================
+
+To create a production build:
+
+npm run build
+
+The optimized files will be in the "dist" folder.
+You can upload this to any web hosting service!
+
+========================================
+🔧 TROUBLESHOOTING
+========================================
+
+Problem: "npm: command not found"
+Solution: Install Node.js from https://nodejs.org/
+
+Problem: Port 3000 already in use
+Solution: The project will automatically use another port
+
+Problem: Slow performance
+Solution: Close other browser tabs, update your graphics drivers
+
+Problem: Black screen
+Solution: Refresh the page (F5 or Ctrl+R)
+
+========================================
+📧 SUPPORT
+========================================
+
+If you need help:
+- Check README.md in the project folder
+- Email: khalfaouihoussemeddine94@gmail.com
+- GitHub: github.com/houssemdxd
+
+========================================
+🎉 ENJOY YOUR 3D PORTFOLIO!
+========================================
