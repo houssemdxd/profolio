@@ -1442,7 +1442,7 @@ export default function SophisticatedPortfolio() {
 
         {/* Profile Card - Top Left - Only show when not moving */}
         {showProfile && speed === '0' && (
-          <div className="absolute top-6 left-6 animate-slide-in pointer-events-auto">
+          <div className="absolute top-1 left-6 animate-slide-in pointer-events-auto">
             <div className="glass cyber-border rounded-lg p-8 max-w-sm" style={{ borderColor: '#00ffff' , padding:"20px" }}>
               <div className="flex items-start gap-4 mb-6">
                 <div className="w-16 h-16 rounded-full bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-3xl font-bold text-white shadow-lg">
@@ -1505,6 +1505,7 @@ export default function SophisticatedPortfolio() {
                   </div>
                 </div>
               </div>
+    
 
               <div className="mt-5 pt-5 border-t border-cyan-900">
                 <p className="text-xs text-cyan-400 font-bold mb-3">CERTIFICATIONS</p>
@@ -1520,7 +1521,7 @@ export default function SophisticatedPortfolio() {
         )}
 
         {/* Stats Dashboard - Top Center */}
-        <div className="absolute top-6 left-1/2 transform -translate-x-1/2 animate-fade-in pointer-events-auto" >
+        <div className="absolute top-1 left-1/2 transform -translate-x-1/2 animate-fade-in pointer-events-auto" >
           <div className="glass cyber-border rounded-lg px-6 py-3 flex items-center gap-6" style={{ borderColor: '#00ff00',padding:"20px"}}>
             <div className="text-center">
               <p className="text-2xl font-black text-cyan-400 font-mono">4</p>
